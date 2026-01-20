@@ -18,7 +18,7 @@ Aplikacja umożliwia tworzenie, odczyt, edycję i usuwanie zadań. Dane są prze
 ## Instalacja i uruchomienie
 1. Sklonuj repozytorium:
    ```bash
-   git clone <TU_WKLEJ_LINK_DO_REPO>
+   git clone https://github.com/lukaszczapla7/tools-project-crud
    cd tools-project-crud
 
 2. Zainstaluj zależności:
